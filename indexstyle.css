@@ -1,0 +1,34 @@
+/* fichier css   style de la page index */
+
+
+body
+{
+        background-color:#BBD3C7;
+}
+
+p
+{
+        color: blue;
+
+}
+
+.textrami
+{
+	position: absolute;
+}
+
+.textrami > p
+{
+	color: white;
+}
+
+paragraphe1
+{
+    color:red;
+    font-size:18px;
+}
+paragraphe2
+{
+    color:yellow;
+    font-size:18px
+}
